@@ -25,9 +25,9 @@ Modern buildings may already have plenty of sensors that communicate independent
 #### What components is the demo using?
 
 ###### Software Components
-**[Streamsheets](https://docs.cedalo.com/gettingstarted.html)**
-**[Eclipse Leshan](https://www.eclipse.org/leshan/)**
-**[Zephyr RTOS](https://docs.zephyrproject.org/latest/)**
+- **[Streamsheets](https://docs.cedalo.com/gettingstarted.html)**
+- **[Eclipse Leshan](https://www.eclipse.org/leshan/)**
+- **[Zephyr RTOS](https://docs.zephyrproject.org/latest/)**
 
 **Hardware Components**
 - Adafruit Feather nRF52840
