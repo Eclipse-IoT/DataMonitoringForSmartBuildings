@@ -26,8 +26,11 @@ Modern buildings may already have plenty of sensors that communicate independent
 
 ###### Software Components
 - **[Streamsheets](https://docs.cedalo.com/gettingstarted.html)**
+  - Aggregate and visualize datastreams
 - **[Eclipse Leshan](https://www.eclipse.org/leshan/)**
+  - LWM2M Server implementation
 - **[Zephyr RTOS](https://docs.zephyrproject.org/latest/)**
+  - Real-time operating system for our Feather microcontroller 
 
 **Hardware Components**
 - Adafruit Feather nRF52840
