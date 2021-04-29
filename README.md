@@ -103,7 +103,7 @@ https://docs.cedalo.com/installation.html
 Creating a Streamsheets is as simple as creating a spreadsheet, to get data from the HTTP stream the HTTP.REQUEST function from the Streamsheets Function Wizard is necessary:
 https://docs.cedalo.com/functions/streams/httprequest.html
 
-Temperature and Humidity data from the Feather can be viewed from the following links:
+Temperature and Humidity data from the Feather can be viewed from the following links respectively:
 - XXX.XX.X.XXX:8080/api/clients/nrf52_adafruit_feather/3303/0/5700
 - XXX.XX.X.XXX:8080/api/clients/nrf52_adafruit_feather/3304/0/5700
 
