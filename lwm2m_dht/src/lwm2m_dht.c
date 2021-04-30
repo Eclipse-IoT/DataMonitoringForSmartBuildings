@@ -1,13 +1,13 @@
 /*
- * Copyright (c) 2021 Eclipse Foundation.
+ * Copyright (c) 2017 Linaro Limited
+ * Copyright (c) 2017-2019 Foundries.io
+ * Copyright (c) 2021 Eclipse Foundation
  *
- * This program and the accompanying materials are made available under the
- * terms of the Eclipse Public License 2.0 which is available at
- * http://www.eclipse.org/legal/epl-2.0.
+ * This program and the accompanying materials are made available under
+ * the Apache Software License 2.0 which is available 
+ * at https://www.apache.org/licenses/LICENSE-2.0.
  *
- * SPDX-License-Identifier: EPL-2.0
- *
- * Original Author: Joongho Kim
+ * SPDX-License-Identifier: Apache-2.0
  */
 
 #define LOG_MODULE_NAME net_lwm2m_client_app
